@@ -1,4 +1,4 @@
-# Project 2: Supervised Learning
+# Supervised Learning Project _  Classification
 ## Building a Student Intervention System
 
 ### Install
@@ -11,11 +11,11 @@ This project requires **Python 2.7** and the following Python libraries installe
 
 You will also need to have software installed to run and execute an [iPython Notebook](http://ipython.org/notebook.html)
 
-Udacity recommends our students install [Anaconda](https://www.continuum.io/downloads), i pre-packaged Python distribution that contains all of the necessary libraries and software for this project. 
+You are recommended to install [Anaconda](https://www.continuum.io/downloads), i pre-packaged Python distribution that contains all of the necessary libraries and software for this project. 
 
 ### Code
 
-Template code is provided in the notebook `student_intervention.ipynb` notebook file. While some code has already been implemented to get you started, you will need to implement additional functionality when requested to successfully complete the project.
+Template code is provided in the notebook `student_intervention.ipynb` notebook file. 
 
 ### Run
 
@@ -51,7 +51,7 @@ The dataset used in this project is included as `student-data.csv`. This dataset
 - `activities` ? extra-curricular activities (binary: yes or no)
 - `nursery` ? attended nursery school (binary: yes or no)
 - `higher` ? wants to take higher education (binary: yes or no)
-- `internet` ? Internet access at home (binary: yes or no)
+- `internet` ? Internet access atw home (binary: yes or no)
 - `romantic` ? with a romantic relationship (binary: yes or no)
 - `famrel` ? quality of family relationships (numeric: from 1 - very bad to 5 - excellent)
 - `freetime` ? free time after school (numeric: from 1 - very low to 5 - very high)
